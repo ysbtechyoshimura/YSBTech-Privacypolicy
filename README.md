@@ -14,7 +14,7 @@
   <p>広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。</p>
   <p>取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。</p>
   <p>AdMob（Google Inc.）</p>
-  <a href= "xxxx.html" target="_blank" >AdMob（Google Inc.）</a>
+  <a href= "https://policies.google.com/privacy?hl=ja" target="_blank" >AdMob（Google Inc.）</a>
   <b>2.2 お問い合わせやご意見を頂く際の個人情報の収集</b>
   <p>• 2.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)</p>
   <p>• 2.2.2 お問い合わせ内容</p>
@@ -35,7 +35,7 @@
   <h2>8. 著作権・知的財産権等</h2>
   <p>著作権その他一切の権利は、<span id="me9"></span>又は権利を有する第三者に帰属します。</p>
   <h2>9. 連絡先</h2>
-  <p>お問い合わせ先</p>
+  <a href= "https://policies.google.com/privacy?hl=ja" target="_blank" >お問合せ先</a>
 </body>
   <script type="text/javascript">
     document.getElementById('company').innerHTML = "YSBTech";
