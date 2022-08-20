@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 </head>
 <body>
- <article>
+
 
   <h2>1.はじめに</h2>
   <p><span id="company"></span>.</p>（以下「<span id="me"></span>.</p>」）は、スマートフォン用アプリケーション（以下「アプリ」）を開発・運用しています。本アプリのご使用によって、本規約に同意していただいたものとみなします。</p>
@@ -38,7 +38,6 @@
   <p>著作権その他一切の権利は、<span id="me"></span>.</p>又は権利を有する第三者に帰属します。</p>
   <h2>9. 連絡先</h2>
   <p>お問い合わせ先</p>
- </article>
 
 </body>
   <script type="text/javascript">
