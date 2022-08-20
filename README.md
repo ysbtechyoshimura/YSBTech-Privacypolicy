@@ -13,8 +13,7 @@
   <p><span id="me2"></span>が配信するアプリでは、広告配信のためにGoogle AdMobを使用する場合がございます。</p>
   <p>広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。</p>
   <p>取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。</p>
-  <p>AdMob（Google Inc.）</p>
-  <a href= "https://policies.google.com/privacy?hl=ja" target="_blank" >AdMob（Google Inc.）</a>
+  <p><a href= "https://policies.google.com/privacy?hl=ja" target="_blank" >AdMob（Google Inc.）</a></p>
   <b>2.2 お問い合わせやご意見を頂く際の個人情報の収集</b>
   <p>• 2.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)</p>
   <p>• 2.2.2 お問い合わせ内容</p>
