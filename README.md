@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>利用規約・プライバシーポリシー</title>
