@@ -39,6 +39,6 @@
 </body>
   <script type="text/javascript">
     document.getElementById('company').innerHTML = "YSBTech";
-    document.getElementById('me').innerHTML = 当方;
+    document.getElementById('me').innerHTML = "当方";
   </script>
 </html>
